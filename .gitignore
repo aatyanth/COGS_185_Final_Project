@@ -1,2 +1,3 @@
 dcgan_models/data/cifar10_data/*
 dcgan_models/data/anime_data/*
+dcgan_models/data/mnist_data/*
